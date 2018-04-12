@@ -1,0 +1,11 @@
+{
+  "name": "parallax-experiment",
+  "version": "1.0.0",
+  "description": "experiment for math with parallax scrolling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harpreet singh",
+  "license": "ISC"
+}
